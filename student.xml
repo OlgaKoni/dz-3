@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<root type="object">
+  <a:item xmlns:a="item" item="personal data" type="array">
+    <item type="object">
+      <name type="string">Dart Veider</name>
+      <age type="number">102</age>
+      <relatives type="object">
+        <son type="string">Luk</son>
+        <doughtier type="string">Leya</doughtier>
+      </relatives>
+      <address type="string">Star Wars</address>
+      <hobby type="string">evil</hobby>
+    </item>
+  </a:item>
+  <phone type="string">nokia</phone>
+  <group type="number">12</group>
+</root>

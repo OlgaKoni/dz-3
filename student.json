@@ -1,0 +1,16 @@
+{
+   "personal data":[
+      {
+         "name":"Dart Veider",
+         "age":102,
+         "relatives":{
+            "son":"Luk",
+            "doughtier":"Leya"
+         },
+         "address":"Star Wars",
+         "hobby":"evil"
+      }
+   ],
+   "phone":"nokia",
+   "group":12
+}
